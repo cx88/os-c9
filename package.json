@@ -1,0 +1,23 @@
+{
+  "name": "os-c9",
+  "version": "0.0.0",
+  "description": "Cloud9 for OpenShift",
+  "scripts": {
+    "start": ". ./start.sh",
+    "install": ". ./install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cx88/os-c9.git"
+  },
+  "keywords": [
+    "openshift",
+    "cloud9-ide"
+  ],
+  "author": "CX <cx8128@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cx88/os-c9/issues"
+  },
+  "homepage": "https://github.com/cx88/os-c9#readme"
+}
